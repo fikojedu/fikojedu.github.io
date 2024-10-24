@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fikojedu.github.io/sitemap/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/sLp/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/het/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/iyc/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/BYE/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/DHk/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/Rxf/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/XdS/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/YOi/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/AkQ/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/tHK/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/KQm/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/TMo/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/BQh/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/Xfq/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/ApJ/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/WbZ/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/CnV/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/KFu/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/FUI/sitemap_index.fikojedu
+Sitemap: https://fikojedu.github.io/Ijs/sitemap_index.fikojedu
